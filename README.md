@@ -2,4 +2,3 @@
 - 👀 I’m interested in Block Chain Technology
 - 🌱 I’m currently learning Python, Solidity, Java Script & C++
 - 💞️ I’m looking to collaborate on Block Chain Protocals, Building Nodes, Developing Apps & Creating Smart Contracts
-- 📫 Reach me Via Whatsapp @ +1 (615)900-7857

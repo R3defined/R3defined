@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @R3defined
-- 👀 I’m interested in Block Chain Technology
-- 🌱 I’m currently learning Python, Solidity, Java Script & C++
-- 💞️ I’m looking to collaborate on Block Chain Protocals, Building Nodes, Developing Apps & Creating Smart Contracts
+- 👋 Hi, I’m Reece
+- 👀 I’m interested in Machine Learning, Block Chain & Cloud Security
+- 🌱 I’m currently learning Python, Solidity, Java Script & C++ 
+- 💞️ I’m looking to collaborate on Block Chain Protocals, Building Nodes, Developing Apps & Creating Smart Contracts, Machine learning / AI Projects and more

@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Reece
-- 👀 I’m interested in Machine Learning, Block Chain & Cloud Security
-- 🌱 I’m currently learning Python, Solidity, Java Script & C++ 
-- 💞️ I’m looking to collaborate on Block Chain Protocals, Building Nodes, Developing Apps & Creating Smart Contracts, Machine learning / AI Projects and more
+## 🚀 Interests
+- AI Agents, Local LLM Integration, and Autonomous Workflows
+- Blockchain Infrastructure & Protocol Engineering (Nodes, Oracles, Smart Contracts)
+- Edge Networking & Cloud-Native Security (Zero Trust, SASE, MDM)
+- Open Source Collaboration Across Cybersecurity, DevOps, and Web3
+

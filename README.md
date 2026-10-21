@@ -19,7 +19,7 @@ I'm interested in how people use these systems, how they fail, and how to make t
 
 - Data exploration and visualization
 - Information security and secure systems
-- Hardware and hands-on experimentation
+- Hardware and hands on experimentation
 - Scientific software, spatial AI, and open science
 
 [Browse my repositories](https://github.com/R3defined?tab=repositories)

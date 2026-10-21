@@ -1,11 +1,11 @@
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-static.png">
-  <img src="assets/profile-scramble.gif" alt="Reece Hall. Software, AI systems, and generative art. Detroit, Michigan." width="1200">
+  <img src="assets/profile-scramble.gif" alt="Reece. Software, AI systems, and generative art. Detroit, Michigan." width="1200">
 </picture>
 
 I build software, AI workflows, and generative art. Based in Detroit.
 
-I'm interested in how people use these systems, how they fail, and what makes them worth maintaining.
+I'm interested in how people use these systems, how they fail, and how to make them secure and worth maintaining.
 
 ### Selected work
 
@@ -17,6 +17,9 @@ I'm interested in how people use these systems, how they fail, and what makes th
 
 ### Exploring
 
-Scientific software, spatial AI, and open science.
+- Data exploration and visualization
+- Information security and secure systems
+- Hardware and hands-on experimentation
+- Scientific software, spatial AI, and open science
 
 [Browse my repositories](https://github.com/R3defined?tab=repositories)
